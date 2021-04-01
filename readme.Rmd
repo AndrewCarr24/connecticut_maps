@@ -1,0 +1,14 @@
+---
+title: "Connecticut Mapping Tool"
+author: "Andrew Carr"
+date: "4/1/2021"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Connecticut Mapping Tool
+
+This repository contains a program and data for mapping 2014-2018 ACS data for Connecticut. To get started, clone this repository and set it as your working directory. Then run the ct_mapping_tool.R script.
