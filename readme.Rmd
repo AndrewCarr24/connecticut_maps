@@ -1,13 +1,3 @@
----
-title: "Connecticut Mapping Tool"
-author: "Andrew Carr"
-date: "4/1/2021"
-output: github_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Connecticut Mapping Tool
 
