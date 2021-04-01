@@ -16,4 +16,4 @@ conn_tbl_full <- read_csv("conn_tbl_full.csv")
 
 
 get_ct_map(mapping_var = "all", mapping_level = "tract", higher_level_filter = "fairfield",
-           interactive = TRUE) 
+           interactive = FALSE) 
